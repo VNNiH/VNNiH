@@ -1,7 +1,7 @@
 Oi, me chamo Vinicius
 Sou estudante de Engenharia de Software. Atualmente estou em busca de experiência no mercado de trabalho.
 
-<h1>Minhas Teconologias:</h1>
+<h1>Minhas Tecnologias:</h1>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS"/>
