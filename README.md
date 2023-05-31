@@ -1,5 +1,5 @@
-Oi, me chamo Vinicius
-Sou estudante de Engenharia de Software. Atualmente estou em busca de experiência no mercado de trabalho.
+Oi, me chamo Vinicius,
+sou estudante de Engenharia de Software. Atualmente estou em busca de experiência no mercado de trabalho.
 
 <h1>Minhas Tecnologias:</h1>
 <div>
