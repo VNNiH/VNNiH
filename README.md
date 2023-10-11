@@ -14,12 +14,13 @@
 <h1>Contacts:</h1>
 <div>
   <a href="https://www.linkedin.com/in/vinicius-benassuli-lima-614261248/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href = "mailto:vinihenrique67@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinicius.limad3v@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   <h1>Projects:</h1>
   <div>
-    <a href='https://vnnih.github.io/calc.js/' target="_blank"><img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black' target="_blank"/>
+    <a href='https://vnnih.github.io/calc.js/'><img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black' />
     </a>
-    
+    <span> <a href='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black&link=https%3A%2F%2Fwww.w3schools.com%2Ftags%2Fatt_a_target.asp
+'></a></span>
   </div>
   
