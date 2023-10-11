@@ -18,6 +18,8 @@
   </div>
   <h1>Projects:</h1>
   <div>
-<img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black&link=https%3A%2F%2Fvnnih.github.io%2Fcalc.js%2F'/>
+<img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black'>
+  <a href='https://vnnih.github.io/calc.js/'/>
+  </img>
   </div>
   
