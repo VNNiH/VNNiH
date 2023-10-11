@@ -14,7 +14,7 @@
 <h1>Contacts:</h1>
 <div>
   <a href="https://www.linkedin.com/in/vinicius-henrique-benassuli-lima-614261248/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href = "mailto:vinihenrique67@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vinihenrique67@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   <h1>Projects:</h1>
   <div>
