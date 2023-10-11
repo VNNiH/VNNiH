@@ -18,9 +18,10 @@
   </div>
   <h1>Projects:</h1>
   <div>
-    <a href='https://vnnih.github.io/calc.js/'><img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black' />
+    <a href='https://vnnih.github.io/calc.js/'>
+
+      <img src='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black&link=https%3A%2F%2Fvnnih.github.io%2Fcalc.js%2F
+' />
     </a>
-    <span> <a href='https://img.shields.io/badge/CALCULADORA-white?style=for-the-badge&logo=FeatHub&logoColor=black&link=https%3A%2F%2Fwww.w3schools.com%2Ftags%2Fatt_a_target.asp
-'></a></span>
   </div>
   
