@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=blue"title="CSS"/>
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" title="JS"/>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"title="PYTHON"/>
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL" title="SQL"/>
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=C&logoColor=white" title="C"/>
 <h1>Technologies & Frameworks:</h1>         
 </div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="REACT" />
